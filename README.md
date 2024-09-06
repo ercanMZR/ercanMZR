@@ -9,7 +9,7 @@
 - 🌱 I’m currently improving myself about fullstack technologies.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Fullstack and related technologies  
   
 
 <br/>  
