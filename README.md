@@ -63,7 +63,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/linkedin.com/in/ercan-muzır" target="_blank">
+<a href="https://www.linkedin.com/in/ercanmuzır" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/ercanMZR" target="_blank">
@@ -77,8 +77,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanMzr&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ercanMZR&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
